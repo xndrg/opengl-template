@@ -1,0 +1,1 @@
+cmake --build c:/users/alexg/AppData/Roaming/dev/linear-algebra/build/ && c:/users/alexg/AppData/Roaming/dev/linear-algebra/build/Debug/math.exe
